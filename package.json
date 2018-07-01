@@ -1,0 +1,36 @@
+{
+  "name": "teravoz",
+  "version": "1.0.0",
+  "description": "A Call Center Application using Teravoz API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagodiasb91/teravoz-call-center.git"
+  },
+  "keywords": [
+    "teravoz",
+    "api",
+    "call",
+    "center\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b\u001b[3~"
+  ],
+  "author": "Thiago Barreto <thiagodiasb@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagodiasb91/teravoz-call-center/issues"
+  },
+  "homepage": "https://github.com/thiagodiasb91/teravoz-call-center#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "serverless": "^1.27.3",
+    "serverless-offline": "^3.25.4",
+    "sinon": "^6.0.1",
+    "sinon-test": "^2.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
